@@ -6,6 +6,7 @@ Full Stack Developer with excellent qualifications, experienced with a variety o
 
 *   🌍  I'm based in RWANDA-Kigali
 *   ✉️  You can contact me at [nyakamweaimable@gmail.com](mailto:nyakamweaimable@gmail.com)
+*   💼   Working as Full-Stack Developer at Soma.
 *   🚀  I'm currently working on [Fab Store](http://https://github.com/nyakamwe/fab-store/)
 *   🧠  I'm learning NuxtJs
 *   ⚡ Fun fact **Not doing anything is still doing something.**
