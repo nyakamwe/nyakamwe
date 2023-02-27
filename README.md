@@ -2,8 +2,6 @@
 
 Full Stack Developer with excellent qualifications, experienced with a variety of programming languages and tools, and skilled in both back-end and front-end development.
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=nyakamwe&label=Profile%20views&color=0e75b6&style=flat" alt="nyakamwe" /> </p>-->
-
 *   🌍  I'm based in RWANDA-Kigali
 *   ✉️  You can contact me at [nyakamweaimable@gmail.com](mailto:nyakamweaimable@gmail.com)
 *   💼   Working as Backend Developer at Keetela.
@@ -36,7 +34,7 @@ Full Stack Developer with excellent qualifications, experienced with a variety o
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
                     
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nyakamwe&label=Profile%20views&color=0e75b6&style=flat" alt="nyakamwe" /> </p>
  ### Socials
                   
 <p align="left"> <a href="https://www.github.com/nyakamwe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nyakamwe-aimable" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
