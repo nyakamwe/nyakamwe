@@ -5,8 +5,8 @@ Full Stack Developer with excellent qualifications, experienced with a variety o
 *   🌍  I'm based in RWANDA-Kigali
 *   ✉️  You can contact me at [nyakamweaimable@gmail.com](mailto:nyakamweaimable@gmail.com)
 *   💼   Working as Backend Engineer at RSSB.
-*   🚀  I'm currently working on [Fab Store](http://https://github.com/nyakamwe/fab-store/)
-*   🧠  I'm learning NuxtJs
+*   🚀  I'm currently working on DIGITIZING RAMA
+*   🧠  I'm learning ML
 *   ⚡ Fun fact **Not doing anything is still doing something.**
 
 ### Skills 
