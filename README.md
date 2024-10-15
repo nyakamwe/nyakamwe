@@ -40,9 +40,10 @@ Full Stack Developer with excellent qualifications, experienced with a variety o
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyakamwe&show_icons=true&count_private=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyakamwe&show_icons=true&count_private=false)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyakamwe&layout=compact)](https://github.com/nyakamwe/github-readme-stats)
+#[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyakamwe&layout=compact)](https://github.com/nyakamwe/github-readme-stats)
+-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nyakamwe&label=Profile%20views&color=0e75b6&style=flat" alt="nyakamwe" /> </p>
 <!--
