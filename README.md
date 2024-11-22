@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Nyakamwe.
 
-Full Stack Developer with excellent qualifications, experienced with a variety of programming languages and tools, and skilled in both back-end and front-end development.
+Software Engineer with excellent qualifications, experienced with a variety of programming languages and tools, and skilled in both back-end and front-end development.
 
 *   🌍  I'm based in RWANDA-Kigali
 *   ✉️  You can contact me at [nyakamweaimable@gmail.com](mailto:nyakamweaimable@gmail.com)
