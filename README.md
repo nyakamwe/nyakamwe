@@ -5,7 +5,7 @@ Software Engineer with excellent qualifications, experienced with a variety of p
 *   🌍  I'm based in RWANDA-Kigali
 *   ✉️  You can contact me at [nyakamweaimable@gmail.com](mailto:nyakamweaimable@gmail.com)
 *   💼   Working as Backend Engineer at RSSB.
-*   🚀  I'm currently working on DIGITIZING RAMA
+*   🚀  I'm currently working on DIGITIZING RAMA(Rwandaise d'Assurance Maldie)
 *   🧠  I'm learning ML
 *   ⚡ Fun fact **Not doing anything is still doing something.**
 
